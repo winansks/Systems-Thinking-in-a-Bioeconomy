@@ -24,7 +24,7 @@ WATCH: https://youtu.be/lhwxGjQOjYM?feature=shared
 1. **Early Foundations:**
 
    * Systems thinking has roots in **ancient philosophy**, where thinkers like **Heraclitus** and **Plato** viewed the world as interconnected.
-   * <img width="736" height="346" alt="image" src="https://github.com/user-attachments/assets/7664efce-bd8a-456d-92ce-40afd43121a3" />
+   <img width="736" height="346" alt="image" src="https://github.com/user-attachments/assets/7664efce-bd8a-456d-92ce-40afd43121a3" />
 
    * The **industrial revolution** brought attention to efficiency in systems, but the emphasis was mostly on parts rather than the whole.
 
