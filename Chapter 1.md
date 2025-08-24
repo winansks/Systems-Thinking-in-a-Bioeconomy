@@ -34,7 +34,7 @@ WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): htt
 
    * **Ludwig von Bertalanffy** introduced **General Systems Theory (GST)** in the 1940s, emphasizing that systems should be studied as a whole, not by isolated components.
    * GST sought to understand common principles that could apply across different disciplines, from biology to sociology.
-   * <img width="702" height="602" alt="image" src="https://github.com/user-attachments/assets/bd5860bf-79e7-479c-8471-e1545bbd9a69" />
+     <img width="702" height="602" alt="image" src="https://github.com/user-attachments/assets/bd5860bf-79e7-479c-8471-e1545bbd9a69" />
 The conceptual illustration above is of a system viewed through General System Theory, highlighting the interconnected components, feedback loops, and exchanges of energy, information, and resources that collectively shape system behavior and resilience.
 Reference: https://www.sciencedirect.com/topics/computer-science/general-system-theory
 
