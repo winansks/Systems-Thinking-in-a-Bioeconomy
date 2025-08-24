@@ -10,7 +10,7 @@ Illustration of Interconnectedness: The diagram below shows a Hybrid Energy Syst
 
 Image reference: DOI: 10.3390/en14227499
 
-WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
+  WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
 
 ## Quize question: Why does it matters?
 
