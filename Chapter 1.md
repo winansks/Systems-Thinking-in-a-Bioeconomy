@@ -57,3 +57,8 @@ Reference: https://www.sciencedirect.com/topics/computer-science/general-system-
    * It has become a key part of decision-making in addressing global challenges by emphasizing interconnectedness and long-term thinking.
 
 Overall, the history of systems thinking reflects its development from early philosophical ideas to a comprehensive framework applied across disciplines. It emphasizes understanding complexity, interdependencies, and long-term impacts—qualities that are increasingly critical in addressing global issues like sustainability and environmental challenges.
+
+## Reflection Questions
+1. How has systems thinking evolved from its historical foundations to its modern applications, and why is this perspective especially valuable for addressing challenges in everyday life?
+
+2. Can a systems perspective help address global challenges such as sustainability and climate change?
