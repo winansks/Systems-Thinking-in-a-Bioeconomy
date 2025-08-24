@@ -10,7 +10,7 @@ Illustration of Interconnectedness: The diagram below shows a Hybrid Energy Syst
 
 Image reference: DOI: 10.3390/en14227499
 
-  WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
+ ** WATCH**: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
 
 ## Quize question: Why does it matters?
 
@@ -51,7 +51,7 @@ Reference: https://www.sciencedirect.com/topics/computer-science/general-system-
    * Tools like **causal loop diagrams** and **stock-and-flow models** became central to systems thinking methodology.
    * The rise of **complexity theory** and **emergent behavior** brought new insights into the unpredictable nature of systems.
   
-  WATCH: The complexity of emergent systems (17:12 minutes): https://youtu.be/htmntSoCasg?feature=shared
+**  WATCH**: The complexity of emergent systems (17:12 minutes): https://youtu.be/htmntSoCasg?feature=shared
 
 6. **Current Developments:**
 
