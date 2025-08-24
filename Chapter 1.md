@@ -19,7 +19,7 @@ WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): htt
 3. Improves long-term outcomes or goals
 4. All of the Above
 
-##Historical Context**
+## Historial Context
 ### **Key Points:**
 
 1. **Early Foundations:**
