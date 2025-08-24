@@ -8,7 +8,7 @@ Illustration of Interconnectedness: The diagram below shows a Hybrid Energy Syst
 
 <img width="549" height="332" alt="image" src="https://github.com/user-attachments/assets/5d249a53-c49a-4076-8624-13b389d06f70" />
 
-Reference: DOI: 10.3390/en14227499
+Image reference: DOI: 10.3390/en14227499
 
 WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
 
