@@ -3,6 +3,7 @@
 Systems thinking is a way of understanding complex problems by looking at the whole system, not just the parts.
 
 <img width="549" height="332" alt="image" src="https://github.com/user-attachments/assets/5d249a53-c49a-4076-8624-13b389d06f70" />
+
 Reference: DOI: 10.3390/en14227499
 
 Key principles: Interconnectedness, feedback loops, non-linearity, emergence, and holistic thinking.
