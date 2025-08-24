@@ -27,9 +27,10 @@ WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): htt
    * Systems thinking has roots in **ancient philosophy**, where thinkers like **Heraclitus** and **Plato** viewed the world as interconnected.
    <img width="736" height="346" alt="image" src="https://github.com/user-attachments/assets/7664efce-bd8a-456d-92ce-40afd43121a3" />
 
-   * The **industrial revolution** brought attention to efficiency in systems, but the emphasis was mostly on parts rather than the whole.
 
-2. **The Birth of Modern Systems Thinking:**
+    * The **industrial revolution** brought attention to efficiency in systems, but the emphasis was mostly on parts rather than the whole.
+
+3. **The Birth of Modern Systems Thinking:**
 
    * **Ludwig von Bertalanffy** introduced **General Systems Theory (GST)** in the 1940s, emphasizing that systems should be studied as a whole, not by isolated components.
    * GST sought to understand common principles that could apply across different disciplines, from biology to sociology.
@@ -37,19 +38,19 @@ WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): htt
 The conceptual illustration above is of a system viewed through General System Theory, highlighting the interconnected components, feedback loops, and exchanges of energy, information, and resources that collectively shape system behavior and resilience.
 Reference: https://www.sciencedirect.com/topics/computer-science/general-system-theory
 
-3. **The 1950s – 1970s: Expanding Influence**
+4. **The 1950s – 1970s: Expanding Influence**
 
    * **Cybernetics**, led by thinkers like **Norbert Wiener** and **Ross Ashby**, focused on feedback loops and control systems, influencing the development of systems thinking in fields like engineering and biology.
    * **Jay Forrester** and **System Dynamics** emerged, using computer models to simulate complex feedback systems in industries and social organizations.
    * During this time, **Donella Meadows** and colleagues developed the concept of **limits to growth**, using systems thinking to explore sustainability issues.
 
-4. **1980s – 2000s: Broadening Applications**
+5. **1980s – 2000s: Broadening Applications**
 
    * Systems thinking expanded beyond science and engineering into business, health care, and environmental policy.
    * Tools like **causal loop diagrams** and **stock-and-flow models** became central to systems thinking methodology.
    * The rise of **complexity theory** and **emergent behavior** brought new insights into the unpredictable nature of systems.
 
-5. **Current Developments:**
+6. **Current Developments:**
 
    * Today, systems thinking is integral to understanding **sustainability**, **social systems**, and **climate change**.
    * It has become a key part of decision-making in addressing global challenges by emphasizing interconnectedness and long-term thinking.
