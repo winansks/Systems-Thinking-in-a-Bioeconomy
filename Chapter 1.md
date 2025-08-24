@@ -12,11 +12,12 @@ Image reference: DOI: 10.3390/en14227499
 
 WATCH: Why Systems Thinking is the Future of Problem Solving (2:20 minutes): https://youtu.be/lhwxGjQOjYM?feature=shared
 
-## Why it matters
+## Quize question: Why does it matters?
 
-- Helps solve root causes
-- Reveals feedback loops
-- Improves long-term outcomes or goals
+1. Helps solve root causes
+2. Reveals feedback loops
+3. Improves long-term outcomes or goals
+4. All of the Above
 
 **Historical Context**
 ### **Key Points:**
