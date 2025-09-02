@@ -26,15 +26,15 @@ Image reference: DOI: 10.3390/en14227499
 
 1. **Early Foundations:**
 
-   * Systems thinking has roots in **ancient philosophy**, where thinkers like **Heraclitus** and **Plato** viewed the world as interconnected.
+   * Systems thinking has roots in ancient philosophy, where thinkers like Heraclitus and Plato viewed the world as interconnected.
    <img width="736" height="346" alt="image" src="https://github.com/user-attachments/assets/7664efce-bd8a-456d-92ce-40afd43121a3" />
 
 
-    * The **industrial revolution** brought attention to efficiency in systems, but the emphasis was mostly on parts rather than the whole.
+    * The industrial revolution brought attention to efficiency in systems, but the emphasis was mostly on parts rather than the whole.
 
 3. **The Birth of Modern Systems Thinking:**
 
-   * **Ludwig von Bertalanffy** introduced **General Systems Theory (GST)** in the 1940s, emphasizing that systems should be studied as a whole, not by isolated components.
+   * Ludwig von Bertalanffy introduced General Systems Theory (GST) in the 1940s, emphasizing that systems should be studied as a whole, not by isolated components.
    * GST sought to understand common principles that could apply across different disciplines, from biology to sociology.
      <img width="702" height="602" alt="image" src="https://github.com/user-attachments/assets/bd5860bf-79e7-479c-8471-e1545bbd9a69" />
 
@@ -43,21 +43,21 @@ Reference: https://www.sciencedirect.com/topics/computer-science/general-system-
 
 4. **The 1950s – 1970s: Expanding Influence**
 
-   * **Cybernetics**, led by thinkers like **Norbert Wiener** and **Ross Ashby**, focused on feedback loops and control systems, influencing the development of systems thinking in fields like engineering and biology.
-   * **Jay Forrester** and **System Dynamics** emerged, using computer models to simulate complex feedback systems in industries and social organizations.
-   * During this time, **Donella Meadows** and colleagues developed the concept of **limits to growth**, using systems thinking to explore sustainability issues.
+   * Cybernetics, led by thinkers like Norbert Wiener and Ross Ashby, focused on feedback loops and control systems, influencing the development of systems thinking in fields like engineering and biology.
+   * Jay Forrester and System Dynamics emerged, using computer models to simulate complex feedback systems in industries and social organizations.
+   * During this time, Donella Meadows and colleagues developed the concept of limits to growth, using systems thinking to explore sustainability issues.
 
 5. **1980s – 2000s: Broadening Applications**
 
    * Systems thinking expanded beyond science and engineering into business, health care, and environmental policy.
-   * Tools like **causal loop diagrams** and **stock-and-flow models** became central to systems thinking methodology.
-   * The rise of **complexity theory** and **emergent behavior** brought new insights into the unpredictable nature of systems.
+   * Tools like causal loop diagrams and stock-and-flow models became central to systems thinking methodology.
+   * The rise of complexity theory and emergent behavior brought new insights into the unpredictable nature of systems.
   
 **  WATCH**: The complexity of emergent systems (17:12 minutes): https://youtu.be/htmntSoCasg?feature=shared
 
 6. **Current Developments:**
 
-   * Today, systems thinking is integral to understanding **sustainability**, **social systems**, and **climate change**.
+   * Today, systems thinking is integral to understanding sustainability, social systems, and climate change.
    * It has become a key part of decision-making in addressing global challenges by emphasizing interconnectedness and long-term thinking.
 
 Overall, the history of systems thinking reflects its development from early philosophical ideas to a comprehensive framework applied across disciplines. It emphasizes understanding complexity, interdependencies, and long-term impacts—qualities that are increasingly critical in addressing global issues like sustainability and environmental challenges.
