@@ -4,6 +4,8 @@ Systems thinking is a way of understanding complex problems by looking at the wh
 
 Key principles: Interconnectedness, feedback loops, non-linearity, emergence, and holistic thinking.
 
+Interconnectedness: the recognition that all elements within a system are linked through relationships and interactions, such that changes in one part of the system can influence—and be influenced by—changes in other parts.
+
 Illustration of Interconnectedness: The diagram below shows a Hybrid Energy System (HES) as a hub connecting energy, water, transportation, waste, food, health, and social systems through bidirectional flows of energy, resources, and control signals. This interconnectedness highlights how the HES supports resilience by enabling adaptive responses and buffering disruptions across the broader network.
 
 <img width="549" height="332" alt="image" src="https://github.com/user-attachments/assets/5d249a53-c49a-4076-8624-13b389d06f70" />
