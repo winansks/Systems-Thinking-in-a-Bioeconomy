@@ -58,7 +58,7 @@ Reference: https://www.sciencedirect.com/topics/computer-science/general-system-
 6. **Current Developments:**
 
    * Today, systems thinking is integral to understanding sustainability, social systems, and climate change.
-   * It has become a key part of decision-making in addressing global challenges by emphasizing interconnectedness and long-term thinking.
+   * It has become a key part of decision-making in addressing global challenges by emphasizing interconnectedness and long-term, holistic thinking.
 
 Overall, the history of systems thinking reflects its development from early philosophical ideas to a comprehensive framework applied across disciplines. It emphasizes understanding complexity, interdependencies, and long-term impacts—qualities that are increasingly critical in addressing global issues like sustainability and environmental challenges.
 
